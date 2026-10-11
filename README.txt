@@ -16,5 +16,5 @@ Cara Railway:
 2. railway.app > New > Deploy from GitHub
 3. Buka Logs > scan QR
 
-Nomor bot: 6285881914997
+Nomor bot: 
 Jadwal: lihat jadwal.json
